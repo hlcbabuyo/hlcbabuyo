@@ -121,7 +121,7 @@ Applied ML & LLM systems with retrieval, grounding, and evaluation
 ## 📫 Let’s Connect
 
 🔗 **LinkedIn:** https://linkedin.com/in/hlcbabuyo  
-📧 **Email:** harvie.babuyo@gmail.com  
+📧 **Email:** hlcbabuyo@gmail.com  
 
 ---
 
