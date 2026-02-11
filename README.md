@@ -31,13 +31,10 @@ I am currently executing a rigorous roadmap to build 4 production-ready projects
 
 ---
 
-### 📊 My Coding Activity
-![Harvie's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlcbabuyo&show_icons=true&theme=radical&hide=stars)
-
----
-
 ### 📫 Connect With Me
 * **LinkedIn:** [My Learning Journey](https://www.linkedin.com/in/harvie-lorenz-c-babuyo-16303a3a9/)
 * **Goal:** Seeking OJT opportunities for **April 2026**.
+
+---
 
 *"Consistency over perfection. Committing daily."*
