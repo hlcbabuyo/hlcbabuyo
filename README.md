@@ -2,22 +2,18 @@
 
 ### 🎓 CS Student @ USTP-CDO | 💻 Backend Developer
 
-I am a 3rd-year Computer Science student in University of Science and Technology of Southern Philippines - Cagayan de Oro, building **civic technological solutions** and **scalable APIs**.
-
-I build backend systems that solve real-world problems. Currently executing a development roadmap to build production-ready software using **Python**, **FastAPI**, and **Cloud Infrastructure**.
+I am a 3rd-year Computer Science student in University of Science and Technology of Southern Philippines - Cagayan de Oro, building **civic technological solutions** and **scalable APIs**. I build backend systems that solve real-world problems. Currently executing a development roadmap to build production-ready software using **Python**, **FastAPI**, and **Cloud Infrastructure**.
 
 ---
 
 ### 🚀 The Backend Challenge
 
-I am currently building 4 unique, production-grade projects that address actual needs in the Philippines.
+I’m building two high-impact backend systems that address pressing issues in the Philippines. These are fully deployable, documented, and designed for real-world use.
 
 | Status | Project | Problem Solved | Tech Stack |
 | :---: | :--- | :--- | :--- |
-| 🚧 **Building** | **PH Disaster Alert API** | Aggregating scattered typhoon/quake data into one real-time API | `FastAPI` `PostGIS` `Celery` `Redis` |
-| ⏳ *Next* | **Study Session Scheduler** | Solving student scheduling conflicts with optimization algorithms | `Python` `Algorithms` `Redis` |
-| ⏳ *Queue* | **Barangay E-Services API** | Digitalizing local government document requests & queuing | `AWS S3` `PDF Gen` `Docker` |
-| ⏳ *Final* | **PH News Aggregator** | Unified news search engine with AI summarization | `Web Scraping` `AI/LLMs` `PostgreSQL` |
+| 🚧 **In Development** | **PH Disaster Alert API** | Aggregating scattered typhoon/quake data into one real-time API | `FastAPI` `PostGIS` `Celery` `Redis` `PostgreSQL` |
+| ⏳ *Next* | **Barangay E-Services API** | Digitalizing local government document requests & queuing | `FastAPI` `AWS S3` `PDF Generation` `Docker` `PostgreSQL` |
 
 ---
 
