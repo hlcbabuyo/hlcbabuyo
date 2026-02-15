@@ -2,13 +2,13 @@
 
 ### 🎓 CS Student @ USTP-CDO | 💻 Backend Developer
 
-I am a 3rd-year Computer Science student in Cagayan de Oro, building **civic tech solutions** and **scalable APIs**.
+I am a 3rd-year Computer Science student in University of Science and Technology of Southern Philippines - Cagayan de Oro, building **civic technological solutions** and **scalable APIs**.
 
-I don't just write code—I build backend systems that solve real-world problems. Currently executing a rigorous 10-week development roadmap to build production-ready software using **Python**, **FastAPI**, and **Cloud Infrastructure**.
+I build backend systems that solve real-world problems. Currently executing a development roadmap to build production-ready software using **Python**, **FastAPI**, and **Cloud Infrastructure**.
 
 ---
 
-### 🚀 The 10-Week Backend Challenge
+### 🚀 The Backend Challenge
 
 I am currently building 4 unique, production-grade projects that address actual needs in the Philippines.
 
@@ -21,7 +21,7 @@ I am currently building 4 unique, production-grade projects that address actual 
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Stacks
 
 **Core Backend:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -32,9 +32,9 @@ I am currently building 4 unique, production-grade projects that address actual 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [My Development Journey](https://www.linkedin.com/in/harvie-lorenz-c-babuyo-16303a3a9/)
-* **Goal:** Seeking OJT opportunities for **Mid-2026** where I can contribute to high-impact backend teams.
-
+* **LinkedIn:** [Harvie Lorenz C. Babuyo](https://www.linkedin.com/in/harvie-lorenz-c-babuyo-16303a3a9/)
+* **Email:** [hlcbabuyo@gmail.com](mailto:hlcbabuyo@gmail.com)
+* **Status:** Open to OJT opportunities starting **June 2026**.
 ---
 
-*"Building solutions, not just projects."*
+*"Built with vision. Refined with discipline."*
