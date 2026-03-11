@@ -1,7 +1,5 @@
 # Hi, I'm Harvie! 👋
 
-### 🎓 CS Student @ USTP-CDO | 💻 Backend Developer
-
 I am a 3rd-year Computer Science student in University of Science and Technology of Southern Philippines - Cagayan de Oro, building **civic technological solutions** and **scalable APIs**. I build backend systems that solve real-world problems. Currently executing a development roadmap to build production-ready software using **Python**, **FastAPI**, and **Cloud Infrastructure**.
 
 ---
