@@ -1,7 +1,4 @@
-
-###
-
-<img align="left" height="226" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqNWpkb3hpbjR4OGJ0bHJ0YWY5MGJnbTJ1eWxxbzZ4aWhraWNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  />
+![Terminal GIF](https://raw.githubusercontent.com/hlcbabuyo/gif-terminal/main/output.gif)
 
 ###
 
