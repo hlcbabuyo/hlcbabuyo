@@ -2,11 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Harvie!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=4A5768" />
 </div>
 
+---
+
 ###
 
-<h4 align="center">I am a 3rd-year Computer Science student in University of Science and Technology of Southern Philippines - Cagayan de Oro, building civic technological solutions and scalable APIs. I build backend systems that solve real-world problems.</h4>
-
-<img src="https://raw.githubusercontent.com/hlcbabuyo/hlcbabuyo/output/snake.svg" alt="Snake animation" />
+<h3 align="center">I am a 3rd-year Computer Science student in University of Science and Technology of Southern Philippines - Cagayan de Oro, building civic technological solutions and scalable APIs. I build backend systems that solve real-world problems.</h3>
 
 ###
 ---
