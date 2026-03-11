@@ -1,4 +1,16 @@
 
+###
+
+<img align="left" height="226" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZqNWpkb3hpbjR4OGJ0bHJ0YWY5MGJnbTJ1eWxxbzZ4aWhraWNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hlcbabuyo&radius=0&theme=one-dark&area=true&order=5&hide_border=true&hide_title=false" height="318" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=hlcbabuyo&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=0&order=3" height="219" alt="streak graph"  />
+</div>
+
+###
 
 ###
 
