@@ -1,5 +1,11 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Harvie!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=4A5768" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Harvie!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=4A5768">
+    
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Harvie!&fontSize=50&fontColor=0F172A&fontAlign=50&fontAlignY=60&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=E2E8F0">
+    
+    <img width="100%" alt="Profile Banner" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Harvie!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=4A5768">
+  </picture>
 </div>
 
 ---
