@@ -1,11 +1,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/hlcbabuyo/terminal-profile/main/terminal.svg?v=1" alt="Harvie's Terminal Setup">
+  <img src="https://komarev.com/ghpvc/?username=hlcbabuyo&style=for-the-badge&color=56B6C2&label=PROFILE+VISITORS" alt="Profile Visitors">
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
