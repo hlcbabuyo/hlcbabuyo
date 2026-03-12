@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><code>The code you write today is the foundation of the world tomorrow.</code></h3>
+  <h2><code>The code you write today is the foundation of the world tomorrow.</code></h2>
 
   <img src="https://raw.githubusercontent.com/hlcbabuyo/terminal-profile/main/terminal.svg?v=1" alt="Harvie's Terminal Setup">
 
