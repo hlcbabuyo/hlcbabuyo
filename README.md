@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><code>The code you write today is the foundation of the world tomorrow.</code></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=500&size=23&letterSpacing=1px&pause=5000&color=F7F7F7&background=FFFFFF00&width=790&lines=What+you+build+today+shapes+what+others+can+build+tomorrow." alt="Typing SVG" /></a>
 
   <img src="https://raw.githubusercontent.com/hlcbabuyo/terminal-profile/main/terminal.svg?v=1" alt="Harvie's Terminal Setup">
 
