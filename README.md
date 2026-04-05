@@ -5,8 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=25&pause=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=A+3rd+Year+Computer+Science+Student;Looking+for+internship+opportunities" alt="Typing SVG" /></a>
 
 ```text
-I am a Backend Systems Engineer passionate about how data moves and scales.
-I enjoy tackling complex backend challenges and designing systems that turn raw data into real-world solutions.
+I am a Computer Science Student passionate about how data moves and scales.
+I enjoy designing systems that turn raw data into real-world solutions.
 ```
 
 ---
