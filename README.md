@@ -2,11 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=34&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=711&height=24&lines=Hi%2C+I'm+Harvie+Lorenz+C.+Babuyo!" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=25&pause=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=A+3rd+Year+Computer+Science+Student;A+Junior+Data+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=25&pause=3000&color=FFFFFF&center=true&vCenter=true&width=800&lines=A+3rd+Year+Computer+Science+Student;Looking+for+internship+opportunities" alt="Typing SVG" /></a>
 
 ```text
-I am passionate about data engineering and building reliable systems. 
-I enjoy solving complex problems and building systems that solve real-world issues.
+I am a Backend Systems Engineer passionate about how data moves and scales.
+I enjoy tackling complex backend challenges and designing systems that turn raw data into real-world solutions.
 ```
 
 ---
